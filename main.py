@@ -1,6 +1,8 @@
 from sys import argv, exit
+
+from PyQt5.QtGui import QColor, QFont, QIcon, QPalette
 from PyQt5.QtWidgets import QApplication, QMainWindow, QStyleFactory
-from PyQt5.QtGui import QFont, QPalette, QColor, QIcon
+
 from mainWidget import MainWidgetPart
 
 

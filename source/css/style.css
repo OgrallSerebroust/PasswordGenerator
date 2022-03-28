@@ -1,4 +1,4 @@
-.QPushButton, .QPlainTextEdit
+.QPushButton, .QPlainTextEdit, .QLineEdit
 {
     color: #343A90;
     border: 2px solid #343A90;
