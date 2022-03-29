@@ -4,7 +4,7 @@
     border: 2px solid #343A90;
 }
 
-.QComboBox
+.QComboBox, .QLabel
 {
     color: #343A90;
 }
